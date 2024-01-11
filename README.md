@@ -1,0 +1,1 @@
+The "AccountPaymentSys" Solidity contract is a simple account management system. It allows the contract owner to add accounts, deposit and deduct funds, and retrieve account balances. The contract ensures that these operations are only performed by the owner for added security and control.
